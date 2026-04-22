@@ -2,7 +2,7 @@
 
 > Personal portfolio website of **Rohit Biswas**, a B.Tech CSE (AIML) student specializing in Python, machine learning, and modern web technologies.
 
-🔗 **Live Site:** [rohitbiswas05.netlify.app](https://rohitbiswas05.netlify.app/)
+🔗 **Live Site:** [rohitbiswas05.netlify.app]([https://rohitbiswas05.netlify.app/](https://myportfolio-nine-eta-14.vercel.app/))
 
 ---
 
